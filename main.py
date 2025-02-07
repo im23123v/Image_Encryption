@@ -1,5 +1,4 @@
 file = open('encrypted.jpg',"rb")
-
 image = file.read()
 file.close()
 
