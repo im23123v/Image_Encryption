@@ -11,4 +11,4 @@ for i,j in enumerate(image):
 
 file = open("decrypted.jpg","wb")
 file.write(image)
-file.close()
+file.close() 
